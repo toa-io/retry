@@ -1,2 +1,3 @@
-# retry
-Retry failed operations
+# Retry
+
+Retry failed operations using exponential backoff.
